@@ -1,0 +1,3 @@
+title=CodeBar
+author=Clave
+orientation=portrait
